@@ -1,0 +1,161 @@
+body {
+    font-family:Roboto; 
+    font-size:17pt;
+    background-color: #ceccb8;
+    padding: 30px;
+}
+
+h1, h2, h3, h4 {   
+    text-align: center;
+}
+h5, h6 { 
+    text-decoration: bold;
+    font-size: 20pt;
+
+}
+h1 {
+    font-size: 40pt;
+}
+
+h2 {
+    font-size: 30pt;
+    text-decoration: underline;
+}
+
+header {
+    text-align:center;
+}
+
+#title { 
+    border-radius: 10px;
+    object-fit: cover;    
+    padding: 10px;
+    
+}
+
+#title img {
+    width: 50%;
+    height: 50%; 
+    object-fit: cover; 
+    border-radius: 50%;
+}
+
+/*bio section*/
+#bio, footer { 
+border: 5px solid #1d170e;
+background-color:#b4b4b4;
+border-radius: 10px;
+padding: 15px;
+
+}
+
+/*project section*/
+#projects {
+    font-size: 2em;
+    margin-bottom: 20px;
+   
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: 5px solid #1d170e;
+    background-color:#b4b4b4;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    text-align: center;  
+}
+
+/* images */
+.card img {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover; 
+    border-radius: 5px;
+}
+
+/* titles */
+.card h3 {
+    font-size: 25pt;
+    margin: 5px 0;
+}
+
+/* text */
+.card p {
+    font-size: 17pt;
+    padding: 0 10px;
+}
+
+
+/*reviews tab*/
+#reviews {
+    border: 5px solid #1d170e;
+    background-color:#b4b4b4;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 4%;
+}
+
+.review-box {
+    background: #d1cccc;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    font-size: 20pt;
+}
+.review-box h3 {
+    margin: 0;
+    color: black;
+
+}
+.review-box p {
+    margin: 1px;
+}
+.stars {
+    color: gold;
+}
+
+/*extra section*/
+.image-extra {
+    display: flex;
+    justify-content: center; 
+    gap: 10px; 
+    align-items: center;
+    padding: 15px;
+    
+}
+.image-extra div {
+    text-align: center; 
+}
+.image-extra img {
+    object-fit: cover; 
+    justify-content: center; 
+    gap: 10px;
+    height: 100%;  
+    width: 70%;
+  
+}
+.imgdescription {
+    text-align: center;
+}
+#extra { 
+    border: 5px solid #1d170e;
+    background-color:#b4b4b4;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 2%;
+    font-size: 23px;
+        
+}
+    
+
+
+    
+
