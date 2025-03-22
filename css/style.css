@@ -1,7 +1,7 @@
 body {
     font-family:Roboto; 
     font-size:17pt;
-    background-color: #ceccb8;
+    background-color: #9A9DEB;
     padding: 30px;
 }
 
@@ -43,7 +43,7 @@ header {
 /*bio section*/
 #bio, footer { 
 border: 5px solid #1d170e;
-background-color:#b4b4b4;
+background-color:#C5D9EA;
 border-radius: 10px;
 padding: 15px;
 
@@ -65,7 +65,7 @@ padding: 15px;
 
 .card {
     border: 5px solid #1d170e;
-    background-color:#b4b4b4;
+    background-color:#C5D9EA;
     border-radius: 10px;
     padding: 15px;
     width: 300px;
@@ -96,14 +96,14 @@ padding: 15px;
 /*reviews tab*/
 #reviews {
     border: 5px solid #1d170e;
-    background-color:#b4b4b4;
+    background-color:#C5D9EA;
     border-radius: 10px;
     padding: 15px;
     margin-top: 4%;
 }
 
 .review-box {
-    background: #d1cccc;
+    background: #c2c2c2;
     height: auto;
     padding: 10px;
     margin: 10px;
@@ -147,7 +147,7 @@ padding: 15px;
 }
 #extra { 
     border: 5px solid #1d170e;
-    background-color:#b4b4b4;
+    background-color:#C5D9EA;
     border-radius: 10px;
     padding: 15px;
     margin-top: 2%;
